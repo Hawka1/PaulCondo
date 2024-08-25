@@ -2,10 +2,12 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Making a Cyber Security Portfolio
- - <b>Doing Cyber Security Assignments</b>
-- <b>Learning Pyton</b>
+- <b>Making a Cyber Security Portfolio   (https://youtu.be/zgqfWLHNKLk)
+ - <b>Doing Cyber Security Assignments</b>    (https://youtu.be/zc7LTa9q2nI)
+- <b>Learning Pyton</b>    (https://youtu.be/KOdfpbnWLVo)
+- 
 <h2>📃 Certifications:</h2>
+
 
 
 <h2>📺 Popular YouTube Videos</h2>

@@ -2,9 +2,12 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Making a Cyber Security Portfolio </b>
- - <b>Doing Cyber Security Assignments </b>
-- <b>Learning Pyton </b>
+- <b>Making a Cyber Security Portfolio
+ - <b>Doing Cyber Security Assignments</b>
+- <b>Learning Pyton</b>
+<h2>📃 Certifications:</h2>
+
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero] (https://www.youtube.com/shorts/L8uucdlb8iU?feature=share)

@@ -8,6 +8,27 @@
   
 <h2>📃 Certifications:</h2>
 
+-Certificate II in skills for Work and Vocational Pathways
+
+-Certificate I Information, Digital Media and Technology
+
+-Certificate II Information, Digital Media and Technology
+
+-Certificate II in Business
+
+-Certificate III in Micro Business Operations
+
+-Certificate I in Cleaning Operations
+
+-Certificate II in Cleaning Operations
+
+-Certificate III in Cleaning Operations
+
+-Certificate II in Kitchen Operations
+
+-Infection Control Short Course
+
+-Provide First Aid
 
 
 <h2>📺 Popular YouTube Videos</h2>
